@@ -1,0 +1,30 @@
+The different data types are:
+1.string
+2.number
+3.boolean type
+4.array
+5.null type
+6.undefined type.
+ 
+String datatypes
+   JavaScript, there are 3 types of quotes.
+
+Double quotes: "Hello".
+Single quotes: 'Hello'.
+Backticks: `Hello`.
+ 
+Number
+   The number type represents both integer and floating point numbers.
+There are many operations for numbers, e.g. multiplication *, division /, addition +, subtraction -, and so on.
+
+Boolean type
+    to The boolean type has only two values: true and false.
+
+Array datatype
+      An array is a type of object used for storing multiple values in single variable. Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, strings, booleans, functions, objects, and even other array
+
+Null datatype
+      Null data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string ("") or 0.
+
+Undefined datatype
+     The undefined data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, has the value undefined
