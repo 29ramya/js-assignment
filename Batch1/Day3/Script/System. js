@@ -1,0 +1,4 @@
+let system=prompt("enter your os name and version of os:").split(" ");
+
+console.log( " the os name is  " +system[0]
+"  and  version is "+system[1].);
