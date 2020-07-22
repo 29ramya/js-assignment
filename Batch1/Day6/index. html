@@ -5,7 +5,7 @@
     <title>LetsUpgrade </title>
 </head>
 <body>
-    
+    <h1 id="time" ></h1>
 <ul id="list>
 
 </ul>
