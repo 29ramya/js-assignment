@@ -1,0 +1,24 @@
+let colors= ['red','orange','white','black','pink'];
+
+
+console.log(colors);
+
+const list = document.querySelector('#list');
+console.log(list);
+
+colors.forEach(color=>{
+    list.innerHTML += `<li>${color}</li>`;
+})
+
+
+
+
+function changeColor(){
+  setTimeout(() =>
+{
+  document.body.style.backgroundColor='pink' ;
+  
+}, 5000);
+} 
+
+changeColor() ;
