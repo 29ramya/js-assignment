@@ -1,6 +1,6 @@
 const name = prompt("Enter your name","hello" );
 
-title.innerText += `Welcome to the family ${name}`;
+title.innerText += `Welcome to the LetsUpgrade family ${name}`;
 
 
 const timing=document.getElementById('time' );
