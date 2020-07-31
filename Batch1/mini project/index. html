@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>To generate Random quotes </title>
+    
+  </head>
+  <body>
+    <centre>
+      
+        <button onclick="randomQuote();" >press button to generate random quotes
+        </button>
+        <p></p>
+    
+    </centre>
+    <script src="script.js"></script>
+  </body>
+</html>
