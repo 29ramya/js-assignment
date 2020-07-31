@@ -1,0 +1,76 @@
+function randomQuote()
+{
+var quote=[
+
+"Donot read success stories you will only get a message. Read failure stories you will get some ideas to get success. - Apj", 
+
+
+
+"You cannot change your future  but you can change your habits and surely your habits will change your future. - Abdul Kalam apj", 
+
+
+"Confidence and Hard work is the best medicine to kill the disease called failure. It will make you successful person. - Abdul Kalam", 
+
+"IF you Salute your work You do not have to salute anybody. IF you pollute your work You have to salute everybody. - Abdul Kalam", 
+
+"Two things are infinite the universe and human stupidity and Iam not sure about the universe.-Albert Einstein", 
+
+
+"Life is like riding a bicycle. To keep your balance you must keep moving.-Albert Einstein", 
+
+
+
+"Anyone who has never made a mistake has never tried anything new.-Albert Einstein", 
+
+
+"I have no special talents. I am only passionately curious.-Albert Einstein", 
+
+"If I find the constitution being MISUSED I shall be the first to burn it.-Bhimrao Ramji AMBEDKAR", 
+
+"A writer is someone for whom writing is more difficult than it is for other people.-Thomas Mann", 
+
+"If you have any young friends who aspire to become writers the second greatest favor you can do them is to present them with copies of The Elements of Style. The first greatest, of course, is to shoot them now while they are happy.-Dorothy PARKER", 
+
+
+
+
+"Authors like cats because they are such QUIET lovable wise CREATURES and cats like authors for the same reasons.-Robertson DAVIES",
+
+
+"It is easy to kill individuals but you cannot kill the ideas. ― Bhagat SINGH", 
+
+"I am a man and all that affects mankind concerns me. ― Bhagat SINGH", 
+
+
+"It is blood alone that can pay the price of freedom. Give me blood and I will give you Freedom . - subhas Chandra bose", 
+
+"India is calling. Blood is calling to blood. Get up we have no time to lose. Take up your arms ! we shall carve our way.-subhas Chandra bose", 
+
+
+"One individual may die for an idea but that idea will after his death incarnate itself in a thousand lives.-subhas Chandra nose", 
+
+"Men money and materials cannot by themselves bring victory or freedom. We must have the motive-power that will inspire.-subhas Chandra bose", 
+
+"if you judge people you have no time to love them.-Mother Teresa", 
+"Not all of us can do great things. But we can do small things with great love.-Mother Teresa", 
+
+"Iam not sure exactly what heaven will be like but I know that when we die and it comes time for God to judge us he will not ask How many good things have you done in your life? rather he will ask How much love did you put into what you did?-Mother Teresa", 
+
+"Every time you smile at someone  it is an action of love a gift to that person a beautiful thing.-Mother Teresa", 
+
+"Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.-Mother Teresa", 
+
+ "Do not think that love in order to be genuine has to be extraordinary. What we need is to love without getting tired. Be faithful in small things because it is in them that your strength lies.-Mother Teresa", 
+
+"Kind words can be short and easy to speak but their echoes are truly endless.-Mother  Teresa" 
+
+
+
+];
+
+var para=document.querySelector('p') ;
+para.innerHTML=quote[Math.floor(Math.random()*quote.Length)];
+
+
+
+} 
