@@ -69,7 +69,7 @@ var quote=[
 ];
 
 var para=document.querySelector('p') ;
-para.innerHTML=quote[Math.floor(Math.random()*quote.Length)];
+para.innerHTML=quote[Math.floor(Math.random()*quote.length)];
 
 
 
